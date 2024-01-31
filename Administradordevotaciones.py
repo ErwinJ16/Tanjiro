@@ -18,6 +18,6 @@ if cantidad==13:
             print("Usted voto por el Partido Morado")
     elif alcalde=="d":
             print("usted voto por el Partido Rojo")
-    print("Su número de DPI", dpi)              
+    print("Su número de DPI es", dpi)              
 if cantidad!=13:
        print("DPI no válido")            
