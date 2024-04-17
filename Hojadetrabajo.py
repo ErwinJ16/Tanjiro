@@ -1,8 +1,8 @@
 #Ejercicio1
-def saludar():
-    print("Hola, bienvenido a python") 
-    pass
-saludar()
+def saludar(nombre):
+    print(f"Hola, {nombre} Bienvenido a Python")
+
+saludar("Mau")
 
 #Ejercicio2
 def sumar(a,b):
